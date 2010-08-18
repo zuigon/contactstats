@@ -92,4 +92,4 @@ __END__
   = @time
 %center
   %h2
-    %a{:href=>"https://gist.github.com/6089a2913350d27a7db1"} Source (gist)
+    %a{:href=>"http://github.com/bkrsta/contactstats/blob/master/app.rb"} Source (gist)
