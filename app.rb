@@ -1,4 +1,4 @@
-%w(rubygems sinatra redis forkoff gruff enumerator).each{|x|require x}
+%w(rubygems sinatra redis gruff enumerator).each{|x|require x}
 set :r, Redis.new
 
 def redis x, y=nil
